@@ -44,6 +44,10 @@ long-running, runs services, or you want real blast-radius limits.
   reason to hand one over.
 - **Never hand-patch a stale clone.** Re-clone. That's the whole point.
 
+## License
+
+MIT. It's a pattern; take it.
+
 ## Soele integration
 
 Soele's daemon drives this lifecycle when `HUB_CTS=1` and `HUB_CT_BASE_IP`
